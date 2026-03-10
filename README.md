@@ -61,8 +61,8 @@ assign difference= ( (a ^ b)^bin);
 assign borrow= ( ( ~a & b)| ( bin & (~(a ^ b )))); 
 endmodule
 ```
- Developed by:HARIHARAN GANESH
- RegisterNumber:212225040111
+ Developed by: AJAIRAJ.J
+ RegisterNumber:212225220004
 
 
 **RTL Schematic**
